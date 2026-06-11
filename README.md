@@ -1,8 +1,9 @@
 # Achievements at FPTU
-Spring 2023: TRS601 completion certificate
-Fall 2023: EXCELLENT STUDENT OF TRIMESTER
-Spring 2024: EXCELLENT STUDENT OF TRIMESTER
-Summer 2024: HONORABLE STUDENT OF TRIMESTER
-Spring 2025: ON THE JOB TRAINING CERTIFICATE
-Summer 2025: HONORABLE STUDENT OF TRIMESTER
-Fall 2025: EXCELLENT STUDENT OF TRIMESTER
+
+- Spring 2023: TRS601 Completion Certificate
+- Fall 2023: Excellent Student of Trimester
+- Spring 2024: Excellent Student of Trimester
+- Summer 2024: Honorable Student of Trimester
+- Spring 2025: On-the-Job Training Certificate
+- Summer 2025: Honorable Student of Trimester
+- Fall 2025: Excellent Student of Trimester
